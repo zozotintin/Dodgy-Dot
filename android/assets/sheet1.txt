@@ -1,0 +1,60 @@
+sheet1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 2, 840
+  size: 720, 1080
+  orig: 720, 1080
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 1259, 2
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 421, 2
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 840, 2
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+enemy3
+  rotate: false
+  xy: 2, 421
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+or_here
+  rotate: false
+  xy: 421, 421
+  size: 639, 400
+  orig: 639, 400
+  offset: 0, 0
+  index: -1
+retry
+  rotate: false
+  xy: 2, 2
+  size: 417, 417
+  orig: 417, 417
+  offset: 0, 0
+  index: -1
+tap_here
+  rotate: false
+  xy: 1062, 421
+  size: 678, 400
+  orig: 678, 400
+  offset: 0, 0
+  index: -1
